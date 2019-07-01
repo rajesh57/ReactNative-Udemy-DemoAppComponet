@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/rajeshkumarm/Desktop/ReactNativeLearing/ReactNativeDemo-Udemy/Project1/node_modules/react-native/Libraries/Text/RawText/RCTRawTextShadowView.m \
+  /Users/rajeshkumarm/Desktop/ReactNativeLearing/ReactNativeDemo-Udemy/Project1/node_modules/react-native/Libraries/Text/RawText/RCTRawTextShadowView.h \
+  /Users/rajeshkumarm/Desktop/ReactNativeLearing/ReactNativeDemo-Udemy/Project1/ios/build/Project1/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/rajeshkumarm/Desktop/ReactNativeLearing/ReactNativeDemo-Udemy/Project1/ios/build/Project1/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/rajeshkumarm/Desktop/ReactNativeLearing/ReactNativeDemo-Udemy/Project1/ios/build/Project1/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/rajeshkumarm/Desktop/ReactNativeLearing/ReactNativeDemo-Udemy/Project1/ios/build/Project1/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/rajeshkumarm/Desktop/ReactNativeLearing/ReactNativeDemo-Udemy/Project1/ios/build/Project1/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/rajeshkumarm/Desktop/ReactNativeLearing/ReactNativeDemo-Udemy/Project1/ios/build/Project1/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/rajeshkumarm/Desktop/ReactNativeLearing/ReactNativeDemo-Udemy/Project1/ios/build/Project1/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/rajeshkumarm/Desktop/ReactNativeLearing/ReactNativeDemo-Udemy/Project1/ios/build/Project1/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/rajeshkumarm/Desktop/ReactNativeLearing/ReactNativeDemo-Udemy/Project1/ios/build/Project1/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/rajeshkumarm/Desktop/ReactNativeLearing/ReactNativeDemo-Udemy/Project1/ios/build/Project1/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/rajeshkumarm/Desktop/ReactNativeLearing/ReactNativeDemo-Udemy/Project1/ios/build/Project1/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/rajeshkumarm/Desktop/ReactNativeLearing/ReactNativeDemo-Udemy/Project1/ios/build/Project1/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/rajeshkumarm/Desktop/ReactNativeLearing/ReactNativeDemo-Udemy/Project1/ios/build/Project1/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/rajeshkumarm/Desktop/ReactNativeLearing/ReactNativeDemo-Udemy/Project1/ios/build/Project1/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/rajeshkumarm/Desktop/ReactNativeLearing/ReactNativeDemo-Udemy/Project1/ios/build/Project1/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/rajeshkumarm/Desktop/ReactNativeLearing/ReactNativeDemo-Udemy/Project1/ios/build/Project1/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView+Layout.h
